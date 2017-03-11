@@ -1,0 +1,3 @@
+Recherche operationnelle:
+Cours:
+  http://pagesperso.g-scop.grenoble-inp.fr/~braunern/RO.pdf
